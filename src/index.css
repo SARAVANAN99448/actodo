@@ -4,7 +4,7 @@
 @media screen and (max-width:600px) {
     #activity{
         position: relative;
-        left: 5px;
+        left: 0;
     }
     
 }
